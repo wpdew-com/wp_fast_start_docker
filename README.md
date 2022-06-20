@@ -6,7 +6,7 @@ Docker для быстрой развертки wordpress сайта.
 <hr/>
 
 **1** Выполните клонирование данного репозитория 
-* Clone into the current folder and remove all unnecessary (one command):
+* Клонирование данного репозитория и удаляем все лишнее (одна команда):
 
 ```shell script
 git clone https://github.com/wpdew-com/wp_fast_start_docker .; rd .gitignore; rd readme.md; rm -r -fo .git
