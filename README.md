@@ -1,3 +1,10 @@
+Docker wordpress
+---
+Docker для быстрой развертки wordpress сайта. 
+
+* services: wordpress, db mysql, phpmyadmin
+<hr/>
+
 **1** Выполните клонирование данного репозитория 
 * Clone into the current folder and remove all unnecessary (one command):
 
@@ -23,10 +30,11 @@ git clone https://github.com/wpdew-com/wp_fast_start_docker .
 * Выполните команду для старта проэкта:
 
 ```shell script
-docker-compose build && docker-compose up -d
+docker-compose build
 ```
 
 Создание контейнеров займёт некоторое время. Дождитесь окончания процесса. Ваш компьютер не должен во время данного процесса потерять доступ в интернет.  
+<hr/>
 
 * Запуск контейнера для работы
 ```shell script
