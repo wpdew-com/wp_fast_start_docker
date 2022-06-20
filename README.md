@@ -2,7 +2,7 @@
 * Clone into the current folder and remove all unnecessary (one command):
 
 ```shell script
-git clone https://github.com/wpdew-com/wp_fast_start_docker ; rd .gitignore; rd readme.md; rm -r -fo .git
+git clone https://github.com/wpdew-com/wp_fast_start_docker .; rd .gitignore; rd readme.md; rm -r -fo .git
 ```
 
 * или в любое место на вашем компьютере. 
