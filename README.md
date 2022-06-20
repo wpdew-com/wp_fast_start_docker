@@ -44,4 +44,5 @@ docker-compose up -d
 ```shell script
 docker-compose down
 ```
-* Доступ к сайту по адресу <a href="http://localhost/:8080" target="_blank">http://localhost/:8080</a>
+* Доступ к сайту по адресу 
+[localhost:8080](http://localhost:8080){:target="_blank"}
