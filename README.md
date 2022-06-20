@@ -5,7 +5,7 @@
 git clone https://github.com/wpdew-com/wp_fast_start_docker ; rd .gitignore; rd readme.md; rm -r -fo .git
 ```
 
-* в любое место на вашем компьютере. 
+* или в любое место на вашем компьютере. 
 
 ```shell script
 git clone https://github.com/wpdew-com/wp_fast_start_docker
